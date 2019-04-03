@@ -1,0 +1,15 @@
+3521001
+
+Khan        2218231
+Correy       704200
+Li           492940
+O'Tooley     105630
+Name: Candidate, dtype: int64
+
+Khan        0.63
+Correy      0.20
+Li          0.14
+O'Tooley    0.03
+Name: Candidate, dtype: float64
+
+Khan0.6300001050837531

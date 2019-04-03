@@ -1,0 +1,13 @@
+The total number of months:86
+
+total profit:38382578
+
+average profit/loss:446309.0465116279
+
+the max amount:Date             Sep-2016
+Profit/Losses     1170593
+dtype: object
+
+The mim amount: Date             Apr-2010
+Profit/Losses    -1196225
+dtype: object
